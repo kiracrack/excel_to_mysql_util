@@ -1,0 +1,11 @@
+C:\My Files\My.Net\System Core\DaddyRogerMigration\DaddyRogerMigration\bin\Debug\DaddyRogerMigration.exe.config
+C:\My Files\My.Net\System Core\DaddyRogerMigration\DaddyRogerMigration\bin\Debug\DaddyRogerMigration.exe
+C:\My Files\My.Net\System Core\DaddyRogerMigration\DaddyRogerMigration\bin\Debug\DaddyRogerMigration.pdb
+C:\My Files\My.Net\System Core\DaddyRogerMigration\DaddyRogerMigration\bin\Debug\DaddyRogerMigration.xml
+C:\My Files\My.Net\System Core\DaddyRogerMigration\DaddyRogerMigration\obj\Debug\DaddyRogerMigration.Resources.resources
+C:\My Files\My.Net\System Core\DaddyRogerMigration\DaddyRogerMigration\obj\Debug\DaddyRogerMigration.vbproj.GenerateResource.Cache
+C:\My Files\My.Net\System Core\DaddyRogerMigration\DaddyRogerMigration\obj\Debug\DaddyRogerMigration.exe
+C:\My Files\My.Net\System Core\DaddyRogerMigration\DaddyRogerMigration\obj\Debug\DaddyRogerMigration.xml
+C:\My Files\My.Net\System Core\DaddyRogerMigration\DaddyRogerMigration\obj\Debug\DaddyRogerMigration.pdb
+C:\My Files\My.Net\System Core\DaddyRogerMigration\DaddyRogerMigration\obj\Debug\DaddyRogerMigration.frmConnectionSetup.resources
+C:\My Files\My.Net\System Core\DaddyRogerMigration\DaddyRogerMigration\obj\Debug\DaddyRogerMigration.MainMigration.resources
